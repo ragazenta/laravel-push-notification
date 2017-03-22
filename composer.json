@@ -17,7 +17,7 @@
     "require": {
         "php": ">=5.5",
         "illuminate/support": "5.*",
-        "sly/notification-pusher": "dev-master"
+        "sly/notification-pusher": "dev-zendgcm2"
     },
     "autoload": {
         "psr-0": {
